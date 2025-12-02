@@ -22,7 +22,11 @@ I love working with dashboards, charts, and reports that help businesses make be
 - Built a sales dashboard with charts and slicers to track performance  
 
 ### 📌 Tableau – Dashboard
-- Built an interactive dashboard using Superstore dataset  
+- Built an interactive dashboard using Superstore dataset
+
+  ## 📊 Task-01: Histogram Visualization
+![Task-01 Histogram](histogram.png)
+
 - Included multiple visual elements for better insights  
 
 ### 📌 Tableau – Charts
